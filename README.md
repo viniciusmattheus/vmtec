@@ -1,6 +1,6 @@
 <h1 align="center">VM Tec</h1>
-<p align="center">Projeto prático em Sistemas</p>
-<p align="center">Turma 35 (terça-feira - noite)</p>
+<p align="center">Projeto prático em Sistemas - Turma 35 (terça-feira - noite)</p>
+<p align="center">Objetivo do Sistema: Controle de Estoque</p>
 
 <div align="center">
 
