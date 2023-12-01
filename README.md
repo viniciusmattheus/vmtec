@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[VM Tec - Link do vídeo no Youtube](https://www.youtube.com/watch?v=edDCEK5QWE8&t=564s)
+[VM Tec - Link do vídeo no Youtube]
 
 </div>
 
