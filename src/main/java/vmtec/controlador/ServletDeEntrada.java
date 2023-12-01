@@ -31,7 +31,7 @@ public class ServletDeEntrada extends HttpServlet {
 		//Captura a ação do usuário
 		String acao = request.getParameter("acao");
 		
-		//Seção de login
+		//Sessão de login
 		HttpSession sessao = request.getSession();
 		
 		//Autenticação e autorização
