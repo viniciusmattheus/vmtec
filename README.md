@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[Landing Page com HTML e CSS](https://www.youtube.com/watch?v=edDCEK5QWE8&t=564s)
+[VM Tec - Link do vídeo no Youtube](https://www.youtube.com/watch?v=edDCEK5QWE8&t=564s)
 
 </div>
 
