@@ -11,4 +11,4 @@
 <p align="center">Texto</p>
 
 <h2 align="center">Desktop</h2>
-<img src="./components/images/ladingpageinvictusdetailer.png">
+<img src="VMTecLogin.png">
